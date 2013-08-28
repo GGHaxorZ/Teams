@@ -1,0 +1,9 @@
+name: Teams
+version: 1.0
+description: Teams Plugin
+main: com.gmail.zeusallmighty11.Teams.Teams
+commands:
+  team:
+    syntax: /team [args]
+    aliases: [t,teams]
+    description: Teams command
